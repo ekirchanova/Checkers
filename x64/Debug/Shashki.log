@@ -1,0 +1,18 @@
+﻿  Application.cpp
+C:\Users\ekirc\source\repos\Shashki\Shashki\Application.cpp(76,33): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\ekirc\source\repos\Shashki\Shashki\Application.cpp(78,34): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\ekirc\source\repos\Shashki\Shashki\Application.cpp(83,35): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\ekirc\source\repos\Shashki\Shashki\Application.cpp(85,35): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+  Board.cpp
+  Cell.cpp
+  Game.cpp
+C:\Users\ekirc\source\repos\Shashki\Shashki\Coordinates.h(17,7): warning C4244: '=': conversion from 'const unsigned __int64' to 'int', possible loss of data
+C:\Users\ekirc\source\repos\Shashki\Shashki\Coordinates.h(18,7): warning C4244: '=': conversion from 'const unsigned __int64' to 'int', possible loss of data
+  GUI.cpp
+  main.cpp
+  Score.cpp
+  Shashki.cpp
+  Generating Code...
+C:\Users\ekirc\source\repos\Shashki\Shashki\Board.cpp(301): warning C4715: 'Board::FindQueenDirection': not all control paths return a value
+C:\Users\ekirc\source\repos\Shashki\Shashki\Board.cpp(324): warning C4715: 'Board::MoveOneCellQueen': not all control paths return a value
+LINK : fatal error LNK1104: cannot open file 'opencv_world420d.lib'

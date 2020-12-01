@@ -1,0 +1,23 @@
+﻿  Board.cpp
+  Cell.cpp
+  Game.cpp
+  GUI.cpp
+C:\Users\ekirc\прога 3 курс\Shashki\Shashki\GUI.cpp(53,32): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\ekirc\прога 3 курс\Shashki\Shashki\GUI.cpp(55,33): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\ekirc\прога 3 курс\Shashki\Shashki\GUI.cpp(60,34): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\ekirc\прога 3 курс\Shashki\Shashki\GUI.cpp(62,34): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\ekirc\прога 3 курс\Shashki\Shashki\GUI.cpp(73,55): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\ekirc\прога 3 курс\Shashki\Shashki\GUI.cpp(73,39): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\ekirc\прога 3 курс\Shashki\Shashki\GUI.cpp(92,49): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\ekirc\прога 3 курс\Shashki\Shashki\GUI.cpp(92,35): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\ekirc\прога 3 курс\Shashki\Shashki\GUI.cpp(125,56): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\ekirc\прога 3 курс\Shashki\Shashki\GUI.cpp(125,40): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+  HighlightCell.cpp
+  main.cpp
+  MotionQueen.cpp
+  MotionSimpleChecker.cpp
+  Score.cpp
+  Generating Code...
+C:\Users\ekirc\прога 3 курс\Shashki\Shashki\MotionQueen.cpp(142): warning C4715: 'MotionQueen::FindQueenDirection': not all control paths return a value
+C:\Users\ekirc\прога 3 курс\Shashki\Shashki\Game.cpp(20): warning C4715: 'Game::CentreOnSquare': not all control paths return a value
+  Shashki.vcxproj -> C:\Users\ekirc\прога 3 курс\Shashki\Debug\Shashki.exe
